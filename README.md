@@ -9,4 +9,5 @@ I'm currently working on (updated sporadically):
   * JEDI implementation of NOAA's National Water Model (private development)
   * [A Wavelet-Based Approach to Streamflow Event Identification and Modeled Timing Error Evaluation - preprint in HESS](https://hess.copernicus.org/preprints/hess-2020-323/)
   * Ensemble Streamflow Data Assimilation using WRF-Hydro and DART: Hurricane Florence Flooding (submitted to HESS)
+  * Parameter Estimation in Ungaged Basins using Simulated SWOT Discharge Observations (final prep)
   * [Managed Aquifer Recharge Suitability Mapping: "Project Beaver"](https://earthengine.googlesource.com/users/tsongkapa/earthshot/)
