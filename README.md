@@ -1,5 +1,8 @@
-### Hi there 👋
-I'm a hydrologist working at [NCAR](https://ncar.ucar.edu/) [Research Applications Lab](https://ral.ucar.edu/). 
+### James L. McCreight, Ph.D.
+
+Hi there! 👋
+
+I'm a research hydrologist working at [NCAR](https://ncar.ucar.edu/) [Research Applications Lab](https://ral.ucar.edu/). 
 
 I work at the junction of physical and statistical hydrology using [WRF-Hydro/National Water Model](https://github.com/NCAR/wrf_hydro_nwm_public/) and data assimilation frameworks like [DART](https://github.com/NCAR/DART/) and [JEDI/OOPS](https://github.com/JCSDA/oops/). I focus on simulating and forecasting streamflow and snow pack. I am also interested in the relationship of water and soil carbon. 
 
